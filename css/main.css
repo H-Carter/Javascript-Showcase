@@ -169,7 +169,7 @@ h2 {
     font-size: 70%;
     margin: 0px 1rem 0px 0px;
     text-decoration: underline;
-    text-underline-offset: 2-1em;
+    text-underline-offset: -1em;
 }
 
 
